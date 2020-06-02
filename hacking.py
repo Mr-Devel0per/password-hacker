@@ -4,7 +4,7 @@ import time
 chrome_browser = webdriver.Chrome('./chromedriver')
 
 chrome_browser.maximize_window()
-chrome_browser.get('./Test-Site/index.html')
+chrome_browser.get('https://mr-devel0per.github.io/test-site/')
 
 input_box = chrome_browser.find_element_by_id('input')   #instead of 'Input', set the box to the ID of the input box
 submit_btn = chrome_browser.find_element_by_id('submit') #instead of 'Submit', set the box to the ID of the submit button

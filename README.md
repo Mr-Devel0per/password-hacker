@@ -4,7 +4,9 @@
 
 I use a program called selenium to open chrome and use commands (click, sendkeys). I'm pretty sure that this bot is illegal if you use it on legitimate websites, and it probably won't work anyway, so don't try it
 
-Running the password-hacking bot will open up google chrome and automatically go to https://mr-devel0per.github.io/test-site/. it will then run a program made by sciencebuddies
+Running the password-hacking bot will open up google chrome and automatically go to https://Zach-The-Gecko.github.io/test-site/. it will then run a program made by sciencebuddies
+
+
 
 Written by Howard Eglowstein, Science Buddies, 2014
 
